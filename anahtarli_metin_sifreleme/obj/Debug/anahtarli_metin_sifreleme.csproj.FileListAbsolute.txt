@@ -1,0 +1,19 @@
+D:\ornekler\C#_net\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.Form1.resources
+D:\ornekler\C#_net\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.Properties.Resources.resources
+D:\ornekler\C#_net\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.csproj.GenerateResource.Cache
+D:\ornekler\C#_net\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\bin\Debug\anahtarli_metin_sifreleme.exe
+D:\ornekler\C#_net\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\bin\Debug\anahtarli_metin_sifreleme.pdb
+D:\ornekler\C#_net\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.exe
+D:\ornekler\C#_net\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.pdb
+C:\Users\Asus PC\Desktop\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.exe
+C:\Users\Asus PC\Desktop\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.pdb
+C:\Users\Asus PC\Desktop\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\bin\Debug\anahtarli_metin_sifreleme.exe
+C:\Users\Asus PC\Desktop\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\bin\Debug\anahtarli_metin_sifreleme.pdb
+C:\Users\Asus PC\Desktop\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Asus PC\Desktop\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.Form1.resources
+C:\Users\Asus PC\Desktop\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.Properties.Resources.resources
+C:\Users\Asus PC\Desktop\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.csproj.GenerateResource.Cache
+E:\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\bin\Debug\anahtarli_metin_sifreleme.exe.config
+E:\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.exe
+E:\anahtarli_metin_sifreleme\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.pdb

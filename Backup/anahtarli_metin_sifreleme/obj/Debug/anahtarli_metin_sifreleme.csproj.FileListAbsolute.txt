@@ -1,0 +1,7 @@
+E:\Diğer Veriler\anahtarli_metin_sifreleme\Backup\anahtarli_metin_sifreleme\bin\Debug\anahtarli_metin_sifreleme.exe
+E:\Diğer Veriler\anahtarli_metin_sifreleme\Backup\anahtarli_metin_sifreleme\bin\Debug\anahtarli_metin_sifreleme.pdb
+E:\Diğer Veriler\anahtarli_metin_sifreleme\Backup\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.Form1.resources
+E:\Diğer Veriler\anahtarli_metin_sifreleme\Backup\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.Properties.Resources.resources
+E:\Diğer Veriler\anahtarli_metin_sifreleme\Backup\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.csproj.GenerateResource.Cache
+E:\Diğer Veriler\anahtarli_metin_sifreleme\Backup\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.exe
+E:\Diğer Veriler\anahtarli_metin_sifreleme\Backup\anahtarli_metin_sifreleme\obj\Debug\anahtarli_metin_sifreleme.pdb
